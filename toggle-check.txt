@@ -1,0 +1,4 @@
+<label>
+  <input type="checkbox" class="toggle-checkbox" checked>
+  <div class="toggle-switch"></div>
+</label>
